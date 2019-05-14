@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/jsp/customer/list.jsp,WebRoot/jsp/linkman/list.jsp,WebRoot/jsp/linkman/edit.jsp
+validator.Unchecked=
